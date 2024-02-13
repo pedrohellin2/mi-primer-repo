@@ -1,3 +1,3 @@
 # mi-primer-repo
 
-! (Imagenes/LogoArcas.png)
+! [Logo Arcas] (Imagenes/LogoArcas.png)
