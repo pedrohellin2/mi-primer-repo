@@ -1,3 +1,6 @@
 # mi-primer-repo
 Este es el prmier...
-![Logo Arcas](/Imagenes/LogoArcas.png)
+![Logo Arcas][img]
+
+
+[img]: /Imagenes/LogoArcas.png
