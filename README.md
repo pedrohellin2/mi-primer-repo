@@ -1,5 +1,5 @@
 # mi-primer-repo
-Este es el trabajo con GIT desde Eclipse.
+Este es el trabajo con GIT desde VSC.
 
 
 
