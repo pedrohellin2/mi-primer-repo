@@ -1,5 +1,6 @@
 # mi-primer-repo
-Este es el trabajo con GIT desde VSC.
+Este es el trabajo con GIT desde Eclipse.
+
 
 
 ![Logo Arcas][img]
