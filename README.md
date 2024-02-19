@@ -1,5 +1,5 @@
 # mi-primer-repo
-Este es el trabajo con GIT desde VSC, para su integración con el editor.
+Este es el trabajo con GIT desde VSC, para su integración con el editor de Microsoft.
 
 
 
