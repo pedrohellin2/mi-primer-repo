@@ -1,5 +1,7 @@
 # mi-primer-repo
-Este es el primer...
+Este es el trabajo con GIT desde VSC.
+
+
 ![Logo Arcas][img]
 
 
